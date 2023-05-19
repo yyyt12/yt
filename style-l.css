@@ -124,9 +124,9 @@ header {
 
 #headerpost #lead {
     float: left;
-    width: 300px;
+    width: 100px;
     color: #ffffff;
-    margin-left: 1px;
+    margin-left: 20px;
 }
 
 #headerpost h2 {
